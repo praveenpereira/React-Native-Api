@@ -1,0 +1,113 @@
+{
+    "product": [
+      {
+        "name": "Computer",
+        "price": 100  
+      },
+      {
+        "name": "Laptop",
+        "price": 100
+        
+      },
+      {
+        "name": "Television",
+        "price":100
+        
+      },
+      {
+        "name": "Mobile",
+        "price": 100
+        
+      },
+      {
+        "name": "Watch",
+        "price": 100
+        
+      },
+      {
+        "name": "Table",
+        "price": 100
+        
+      },
+      {
+        "name": "Camera",
+        "price": 100
+        
+      },
+      {
+        "name": "Lens",
+        "price": 100
+        
+      },
+      {
+        "name": "Bag",
+        "price": 100
+        
+      },
+      {
+        "name": "Showcase",
+        "price": 100
+        
+      },
+      {
+        "name": "Door",
+        "price": 100
+        
+      },
+      {
+        "name": "Car",
+        "price": 100
+        
+      },
+      {
+        "name": "Powder",
+        "price": 100
+        
+      },
+      {
+        "name": "Shampoo",
+        "price": 100
+       
+      },
+      {
+        "name": "Belt",
+        "price": 100
+        
+      },
+      {
+        "name": "Cream",
+        "price": 100
+        
+      },
+      {
+        "name": "Washing machine",
+        "price": 100
+        
+      },
+      {
+        "name": "AC",
+        "price": 100
+        
+      },
+      {
+        "name": "Bike",
+        "price":100
+        
+      },
+      {
+        "name": "Soda",
+        "price": 100
+        
+      },
+      {
+        "name": "Cap",
+        "price": 100
+        
+      },
+      {
+        "name": "Mask",
+        "price": 100
+        
+      }
+    ]
+  }
